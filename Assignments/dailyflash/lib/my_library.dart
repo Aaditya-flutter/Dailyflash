@@ -1,8 +1,8 @@
 /// This is [my_library] to access all assignments of Dailyflash
 /// to use, import 'my_library.dart'.
-/// 
+///
 /// (Note: since its a local library you can only access it in this project This is not a package so you cannot import it in your project.)
-/// 
+///
 /// To run specific assignment use following template:
 /// import 'package:flutter/material.dart';
 /// import 'my_library.dart';
@@ -24,8 +24,8 @@
 /// }           |
 ///             |
 ///             |
-/// In place of this `AssignmentX` use assignment number 
-/// 
+/// In place of this `AssignmentX` use assignment number
+///
 /// for example: Assignment21
 /// This lets you access first assignment(assignment1.dart) of Day_05
 /// this value of `X`(21 in our case) can be calculated as
@@ -74,3 +74,8 @@ export 'Day_08/assignment2.dart';
 export 'Day_08/assignment3.dart';
 export 'Day_08/assignment4.dart';
 export 'Day_08/assignment5.dart';
+export 'Day_09/assignment1.dart';
+export 'Day_09/assignment2.dart';
+export 'Day_09/assignment3.dart';
+export 'Day_09/assignment4.dart';
+export 'Day_09/assignment5.dart';
