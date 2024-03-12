@@ -1,7 +1,6 @@
 // Create 2 TextFields to take input i.e. Name and Phone Number also give a submit button below the text fields. When the button is pressed the name and number entered must be displayed below the Button.
 
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class Assignment45 extends StatefulWidget {
   const Assignment45({super.key});
