@@ -79,3 +79,8 @@ export 'Day_09/assignment2.dart';
 export 'Day_09/assignment3.dart';
 export 'Day_09/assignment4.dart';
 export 'Day_09/assignment5.dart';
+export 'Day_10/assignment1.dart';
+export 'Day_10/assignment2.dart';
+export 'Day_10/assignment3.dart';
+export 'Day_10/assignment4.dart';
+export 'Day_10/assignment5.dart';
